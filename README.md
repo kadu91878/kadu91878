@@ -1,4 +1,5 @@
-# Hello there my name is Kadu. Welcome to my GitHub profile.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadu&show_icons=true&theme=synthwave)
+# Hello there my name is Kadu. Welcome to my GitHub profile.\
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+<img src="https://github-readme-stats.vercel.app/api?username=kadu91878&show_icons=true&theme=synthwave" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadu91878&size_weight=0.5&count_weight=0.5" />
